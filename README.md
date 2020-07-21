@@ -1,2 +1,2 @@
 # WebApplication1Mano
-Please pull this code if you wany
+Please pull this code if you want
