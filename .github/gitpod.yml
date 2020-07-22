@@ -1,9 +1,9 @@
 pulls:
 # Enable for pull requests
   perform: true
-      Thanks for pulling the code!
+      
 # Customize a comment to post on a pull request. Comment out to use the default
-#  comment:
+  comment: Thanks for pulling the code!
 
 issues:
 # enable for issues
@@ -12,6 +12,6 @@ issues:
   labels:
     - help wanted
     - good first issue
-      Thanks for raising a issue! we will look into it
+      
 # Customize a comment to post on an issue. Comment out to use the default
-#  comment:
+  comment: Thanks for raising a issue! we will look into it
